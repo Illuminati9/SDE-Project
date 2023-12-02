@@ -1,0 +1,45 @@
+"filename", "language", "JavaScript", "JSON", "HTML", "CSS", "JavaScript JSX", "XML", "Markdown", "comment", "blank", "total"
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 38, 0, 33, 71
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\package-lock.json", "JSON", 0, 18064, 0, 0, 0, 0, 0, 0, 1, 18065
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\package.json", "JSON", 0, 52, 0, 0, 0, 0, 0, 0, 1, 53
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\public\index.html", "HTML", 0, 0, 18, 0, 0, 0, 0, 25, 1, 44
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\public\manifest.json", "JSON", 0, 25, 0, 0, 0, 0, 0, 0, 1, 26
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\App.css", "CSS", 0, 0, 0, 3, 0, 0, 0, 0, 0, 3
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\App.js", "JavaScript", 59, 0, 0, 0, 0, 0, 0, 0, 5, 64
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\App.test.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\common\auth\auth.js", "JavaScript", 5, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\auth\OpenRoute.jsx", "JavaScript JSX", 0, 0, 0, 0, 11, 0, 0, 0, 3, 14
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\auth\PrivateRoute.jsx", "JavaScript JSX", 0, 0, 0, 0, 8, 0, 0, 0, 3, 11
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\categories\categories.jsx", "JavaScript JSX", 0, 0, 0, 0, 25, 0, 0, 0, 6, 31
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\categories\category\category.jsx", "JavaScript JSX", 0, 0, 0, 0, 18, 0, 0, 0, 3, 21
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\providers\provider\newProvider.jsx", "JavaScript JSX", 0, 0, 0, 0, 212, 0, 0, 0, 8, 220
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\providers\provider\provider.jsx", "JavaScript JSX", 0, 0, 0, 0, 7, 0, 0, 0, 2, 9
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\providers\providers.jsx", "JavaScript JSX", 0, 0, 0, 0, 101, 0, 0, 0, 12, 113
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\universal\Footer.jsx", "JavaScript JSX", 0, 0, 0, 0, 187, 0, 0, 0, 3, 190
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\universal\Navbar.jsx", "JavaScript JSX", 0, 0, 0, 0, 126, 0, 0, 0, 7, 133
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\index.css", "CSS", 0, 0, 0, 17, 0, 0, 0, 2, 6, 25
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\index.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 3, 4, 32
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\logo.svg", "XML", 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\auth.jsx", "JavaScript JSX", 0, 0, 0, 0, 193, 0, 0, 0, 17, 210
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\contact.jsx", "JavaScript JSX", 0, 0, 0, 0, 7, 0, 0, 0, 2, 9
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\dashboard.jsx", "JavaScript JSX", 0, 0, 0, 0, 16, 0, 0, 0, 3, 19
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\error.jsx", "JavaScript JSX", 0, 0, 0, 0, 7, 0, 0, 0, 2, 9
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\homepage.jsx", "JavaScript JSX", 0, 0, 0, 0, 32, 0, 0, 0, 5, 37
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\otp.jsx", "JavaScript JSX", 0, 0, 0, 0, 88, 0, 0, 0, 7, 95
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\services.jsx", "JavaScript JSX", 0, 0, 0, 0, 37, 0, 0, 0, 6, 43
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\reducer\index.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 4, 16
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\reportWebVitals.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\apiConnector.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 2, 13
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\apis.js", "JavaScript", 19, 0, 0, 0, 0, 0, 0, 0, 5, 24
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\formatDate.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\operations\authAPI.js", "JavaScript", 106, 0, 0, 0, 0, 0, 0, 4, 17, 127
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\operations\categoryAPI.js", "JavaScript", 41, 0, 0, 0, 0, 0, 0, 0, 3, 44
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\operations\providerAPI.js", "JavaScript", 59, 0, 0, 0, 0, 0, 0, 0, 6, 65
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\setupTests.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 4, 1, 6
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\slices\authSlice.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 0, 4, 29
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\slices\categorySlice.js", "JavaScript", 19, 0, 0, 0, 0, 0, 0, 0, 3, 22
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\slices\profileSlice.js", "JavaScript", 19, 0, 0, 0, 0, 0, 0, 0, 3, 22
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\slices\providerSlice.js", "JavaScript", 19, 0, 0, 0, 0, 0, 0, 0, 3, 22
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\utils\constants.js", "JavaScript", 5, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\tailwind.config.js", "JavaScript", 19, 0, 0, 0, 0, 0, 0, 1, 3, 23
+"Total", "-", 475, 18141, 18, 20, 1075, 1, 38, 39, 205, 20012

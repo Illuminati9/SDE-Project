@@ -1,0 +1,96 @@
+Date : 2023-11-15 00:07:15
+Directory : c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client
+Total : 43 files,  19768 codes, 39 comments, 205 blanks, all 20012 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          3 |     18,141 |          0 |          3 |     18,144 |
+| JavaScript JSX |         16 |      1,075 |          0 |         89 |      1,164 |
+| JavaScript     |         19 |        475 |         12 |         73 |        560 |
+| Markdown       |          1 |         38 |          0 |         33 |         71 |
+| CSS            |          2 |         20 |          2 |          6 |         28 |
+| HTML           |          1 |         18 |         25 |          1 |         44 |
+| XML            |          1 |          1 |          0 |          0 |          1 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                        |         43 |     19,768 |         39 |        205 |     20,012 |
+| . (Files)                                                                                                |          4 |     18,173 |          1 |         38 |     18,212 |
+| public                                                                                                   |          2 |         43 |         25 |          2 |         70 |
+| src                                                                                                      |         37 |      1,552 |         13 |        165 |      1,730 |
+| src (Files)                                                                                              |          8 |        125 |          9 |         20 |        154 |
+| src\components                                                                                           |         10 |        700 |          0 |         49 |        749 |
+| src\components\common                                                                                    |          1 |          5 |          0 |          2 |          7 |
+| src\components\common\auth                                                                               |          1 |          5 |          0 |          2 |          7 |
+| src\components\core                                                                                      |          7 |        382 |          0 |         37 |        419 |
+| src\components\core\auth                                                                                 |          2 |         19 |          0 |          6 |         25 |
+| src\components\core\categories                                                                           |          2 |         43 |          0 |          9 |         52 |
+| src\components\core\categories (Files)                                                                   |          1 |         25 |          0 |          6 |         31 |
+| src\components\core\categories\category                                                                  |          1 |         18 |          0 |          3 |         21 |
+| src\components\core\providers                                                                            |          3 |        320 |          0 |         22 |        342 |
+| src\components\core\providers (Files)                                                                    |          1 |        101 |          0 |         12 |        113 |
+| src\components\core\providers\provider                                                                   |          2 |        219 |          0 |         10 |        229 |
+| src\components\universal                                                                                 |          2 |        313 |          0 |         10 |        323 |
+| src\pages                                                                                                |          7 |        380 |          0 |         42 |        422 |
+| src\reducer                                                                                              |          1 |         12 |          0 |          4 |         16 |
+| src\services                                                                                             |          6 |        248 |          4 |         35 |        287 |
+| src\services (Files)                                                                                     |          3 |         42 |          0 |          9 |         51 |
+| src\services\operations                                                                                  |          3 |        206 |          4 |         26 |        236 |
+| src\slices                                                                                               |          4 |         82 |          0 |         13 |         95 |
+| src\utils                                                                                                |          1 |          5 |          0 |          2 |          7 |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                 | language       | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\README.md                                              | Markdown       |         38 |          0 |         33 |         71 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\package-lock.json                                      | JSON           |     18,064 |          0 |          1 |     18,065 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\package.json                                           | JSON           |         52 |          0 |          1 |         53 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\public\index.html                                      | HTML           |         18 |         25 |          1 |         44 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\public\manifest.json                                   | JSON           |         25 |          0 |          1 |         26 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\App.css                                            | CSS            |          3 |          0 |          0 |          3 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\App.js                                             | JavaScript     |         59 |          0 |          5 |         64 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\App.test.js                                        | JavaScript     |          7 |          0 |          2 |          9 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\common\auth\auth.js                     | JavaScript     |          5 |          0 |          2 |          7 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\auth\OpenRoute.jsx                 | JavaScript JSX |         11 |          0 |          3 |         14 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\auth\PrivateRoute.jsx              | JavaScript JSX |          8 |          0 |          3 |         11 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\categories\categories.jsx          | JavaScript JSX |         25 |          0 |          6 |         31 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\categories\category\category.jsx   | JavaScript JSX |         18 |          0 |          3 |         21 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\providers\provider\newProvider.jsx | JavaScript JSX |        212 |          0 |          8 |        220 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\providers\provider\provider.jsx    | JavaScript JSX |          7 |          0 |          2 |          9 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\core\providers\providers.jsx            | JavaScript JSX |        101 |          0 |         12 |        113 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\universal\Footer.jsx                    | JavaScript JSX |        187 |          0 |          3 |        190 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\components\universal\Navbar.jsx                    | JavaScript JSX |        126 |          0 |          7 |        133 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\index.css                                          | CSS            |         17 |          2 |          6 |         25 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\index.js                                           | JavaScript     |         25 |          3 |          4 |         32 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\logo.svg                                           | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\auth.jsx                                     | JavaScript JSX |        193 |          0 |         17 |        210 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\contact.jsx                                  | JavaScript JSX |          7 |          0 |          2 |          9 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\dashboard.jsx                                | JavaScript JSX |         16 |          0 |          3 |         19 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\error.jsx                                    | JavaScript JSX |          7 |          0 |          2 |          9 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\homepage.jsx                                 | JavaScript JSX |         32 |          0 |          5 |         37 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\otp.jsx                                      | JavaScript JSX |         88 |          0 |          7 |         95 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\pages\services.jsx                                 | JavaScript JSX |         37 |          0 |          6 |         43 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\reducer\index.js                                   | JavaScript     |         12 |          0 |          4 |         16 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\reportWebVitals.js                                 | JavaScript     |         12 |          0 |          2 |         14 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\apiConnector.js                           | JavaScript     |         11 |          0 |          2 |         13 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\apis.js                                   | JavaScript     |         19 |          0 |          5 |         24 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\formatDate.js                             | JavaScript     |         12 |          0 |          2 |         14 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\operations\authAPI.js                     | JavaScript     |        106 |          4 |         17 |        127 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\operations\categoryAPI.js                 | JavaScript     |         41 |          0 |          3 |         44 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\services\operations\providerAPI.js                 | JavaScript     |         59 |          0 |          6 |         65 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\setupTests.js                                      | JavaScript     |          1 |          4 |          1 |          6 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\slices\authSlice.js                                | JavaScript     |         25 |          0 |          4 |         29 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\slices\categorySlice.js                            | JavaScript     |         19 |          0 |          3 |         22 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\slices\profileSlice.js                             | JavaScript     |         19 |          0 |          3 |         22 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\slices\providerSlice.js                            | JavaScript     |         19 |          0 |          3 |         22 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\src\utils\constants.js                                 | JavaScript     |          5 |          0 |          2 |          7 |
+| c:\Users\BHUVAN\OneDrive\Desktop\webDev\SE\client\tailwind.config.js                                     | JavaScript     |         19 |          1 |          3 |         23 |
+| Total                                                                                                    |                |     19,768 |         39 |        205 |     20,012 |
++----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
