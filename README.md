@@ -1,6 +1,6 @@
-# Local Services Aggregator
+# OneTap
 
-The Local Services Aggregator is a web application that aggregates local service providers such as plumbers, electricians, and cleaners, making it convenient for users to find and book reliable professionals for their various service needs.
+The OneTap is a web application that aggregates local service providers such as plumbers, electricians, and cleaners, making it convenient for users to find and book reliable professionals for their various service needs.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ The Local Services Aggregator is a web application that aggregates local service
 
 ## Introduction
 
-The Local Services Aggregator aims to bridge the gap between service seekers and service providers by providing a user-friendly platform for users to discover and connect with local professionals. Service providers can create profiles, showcase their services, and manage bookings through the application. Users can search for services based on location, reviews, and ratings, and book appointments with their preferred professionals.
+The OneTap aims to bridge the gap between service seekers and service providers by providing a user-friendly platform for users to discover and connect with local professionals. Service providers can create profiles, showcase their services, and manage bookings through the application. Users can search for services based on location, reviews, and ratings, and book appointments with their preferred professionals.
 
 ## Features
 
@@ -31,7 +31,7 @@ The Local Services Aggregator aims to bridge the gap between service seekers and
 
 ## Tech Stack
 
-The Local Services Aggregator is built using the following technologies:
+The OneTap is built using the following technologies:
 
 - Frontend:
   - React.js - A JavaScript library for building user interfaces
@@ -53,7 +53,7 @@ The Local Services Aggregator is built using the following technologies:
 
 ## Getting Started
 
-To run the Local Services Aggregator application locally, follow the steps below:
+To run the OneTap application locally, follow the steps below:
 
 ### Installation
 
@@ -123,7 +123,7 @@ For detailed API documentation and endpoints, please refer to the [API documenta
 
 ## Contributing
 
-Contributions to the Local Services Aggregator project are welcome! Please feel free to submit issues, feature requests, or pull requests.
+Contributions to the OneTap project are welcome! Please feel free to submit issues, feature requests, or pull requests.
 
 
 
